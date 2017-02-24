@@ -1,0 +1,19 @@
+H bridge:
+https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/overview
+
+Arduino uno:
+
+https://www.arduino.cc/en/Main/ArduinoBoardUno
+
+Motor x3:
+
+https://www.adafruit.com/product/711
+
+6 dof sensor x2:
+
+http://playground.arduino.cc/Main/MPU-6050#info
+
+9 volt battery snap ?
+
+https://www.amazon.com/Battery-Power-barrel-connector-Arduino/dp/B00UVUXKVA/ref=as_li_ss_tl?ie=UTF8&qid=1452883856&sr=8-13&keywords=9v+snap+connector+plug&linkCode=sl1&tag=amandaghassae-20&linkId=44f1145a88b2f6e8aa1bb8a645fc82af
+
